@@ -188,7 +188,7 @@ If NerveAI helps your SDE preparation, please consider giving it a ⭐ on GitHub
 ## 👨‍💻 Maintainer
 
 **Md Yusuf Ali**
-Pre-final year CSE student · AI/Full-Stack Developer · Vice Chairman, IEEE CS Bangalore Chapter
+Pre-final year CSE student · AI/Full-Stack Developer · Vice Chairman, IEEE CS Society HKBKCE, Bangalore Chapter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yusufali2004-black?logo=github)](https://github.com/Yusufali2004)
 
